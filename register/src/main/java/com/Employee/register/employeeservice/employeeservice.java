@@ -36,4 +36,9 @@ public class employeeservice {
     public void deletebyid(long id) {
         repository.deleteById(id);
     }
+
+    public void testjiswan()
+    {
+        
+    }
 }
